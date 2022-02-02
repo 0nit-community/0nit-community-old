@@ -1,0 +1,30 @@
+img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+  }
+
+  body{
+    text-align:center;
+    font-family: "UD新ゴコンデンス 90 Ｍ";
+}
+
+.main{
+    padding:15px;
+    margin:15px;
+}
+
+footer{
+    background-color : #2b2b2b;
+}
+
+footer p{
+    color:white;
+    padding:15px;
+    margin:10px;
+}
+
+.about-community{
+    font-family: "DSダダ";
+}
