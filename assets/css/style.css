@@ -1,5 +1,6 @@
 body{
     text-align:center;
+    font-family: "UD新ゴコンデンス 90 Ｍ";
 }
 
 .main{
@@ -22,7 +23,7 @@ footer a{
     text-decoration: none;
 }
 
-.about-community{
+.about-community h2{
     font-family: "DSダダ";
 }
 
