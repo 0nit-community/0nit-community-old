@@ -25,6 +25,11 @@ footer p{
     margin:10px;
 }
 
+footer a{
+    color:white;
+    text-decoration: none;
+}
+
 .about-community{
     font-family: "DSダダ";
 }
