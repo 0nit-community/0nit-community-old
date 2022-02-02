@@ -1,11 +1,4 @@
-img.emoji {
-    height: 1em;
-    width: 1em;
-    margin: 0 .05em 0 .1em;
-    vertical-align: -0.1em;
-  }
-
-  body{
+body{
     text-align:center;
     font-family: "UD新ゴコンデンス 90 Ｍ";
 }
@@ -33,3 +26,10 @@ footer a{
 .about-community{
     font-family: "DSダダ";
 }
+
+img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+  }
