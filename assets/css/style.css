@@ -1,8 +1,6 @@
 body{
     text-align:center;
     font-family: "UD新ゴコンデンス 90 Ｍ";
-    padding:15px;
-    margin:15px;
 }
 
 .main{
@@ -12,7 +10,6 @@ body{
 
 h2{
     padding:15px;
-    margin:10px;
 }
 
 footer{
@@ -22,7 +19,6 @@ footer{
 footer p{
     color:white;
     padding:15px;
-    margin:10px;
 }
 
 footer a{
